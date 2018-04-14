@@ -1,0 +1,53 @@
+h1 {
+    font-family: fantasy;
+    font-size: 60px;
+    border:10px red dashed;
+}
+
+div {
+    border: 5px black solid;
+
+}
+
+.nav1 {
+    margin-right: 10px;
+}
+
+#parent1 a {
+    color: #ffffff;
+    background-color: #000000;
+    text-align: center;
+    text-decoration: none;
+    margin: none;
+    padding: 0;
+}
+
+ul li {
+    color: blue;
+    background-color: orange;
+    list-style-type: none;
+    display: inline-block;
+    
+}
+
+ul li a {
+    text-decoration: none;
+}
+
+#red {
+    background-color: red;
+    width: 60%;
+    
+    
+}
+
+#green {
+    background-color: green;
+    width: 40%;
+}
+
+#blue {
+    background-color: blue;
+    width: 20%;
+    clear: both;
+}
